@@ -171,16 +171,22 @@ Seasonal peaks, regional demand variations, and brand-level disparities indicate
 
 ### 📊 Sales Analysis:
 
+
 <img width="873" height="489" alt="2-Sales Analysis" src="https://github.com/user-attachments/assets/aad77810-e01e-44e9-9686-8d1cf12d8349" />
+
+
 ### 🗺️ Sales Distribution Map:
 
 <img width="869" height="488" alt="3-Sales Distribution Map" src="https://github.com/user-attachments/assets/9dc61e82-5c1c-4bd5-b2b5-ff5f9f659eb4" />
+
 ### 🏆 Top 10 States:
 
 <img width="869" height="489" alt="4-Top 10 States" src="https://github.com/user-attachments/assets/0562dee4-09a5-4d45-8203-3fa652e049c4" />
+
 ### ⚠️ Lowest 10 States
 
 <img width="874" height="488" alt="5-Lowest 10 States" src="https://github.com/user-attachments/assets/0eb7851a-7219-4d61-b689-d7e18023eaba" />
+
 ### 💰 Sales & Profit Breakdown
 
 <img width="871" height="488" alt="6-Sales   Profit Breakdown" src="https://github.com/user-attachments/assets/151c91be-d035-4257-8aad-67937eb0d6ae" />
