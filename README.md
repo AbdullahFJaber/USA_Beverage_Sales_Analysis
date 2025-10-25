@@ -176,8 +176,9 @@ Seasonal peaks, regional demand variations, and brand-level disparities indicate
 
 
 ### 🗺️ Sales Distribution Map:
+<img width="884" height="489" alt="3-Sales Distribution Map" src="https://github.com/user-attachments/assets/77b09df9-b7ab-417b-8175-af543ac672a4" />
 
-<img width="869" height="488" alt="3-Sales Distribution Map" src="https://github.com/user-attachments/assets/9dc61e82-5c1c-4bd5-b2b5-ff5f9f659eb4" />
+
 
 ### 🏆 Top 10 States:
 
