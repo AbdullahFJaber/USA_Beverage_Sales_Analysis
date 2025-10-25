@@ -64,7 +64,7 @@ Created derived columns for:
 
 - Verified consistency and data integrity across all columns.
 
-### 🪄 Note
+### 📝 Note
 
 - To maintain privacy and encourage creative flexibility, a new logo, brand name, and product line were designed specifically for this project — avoiding the use of any real commercial identities.
 
@@ -147,7 +147,9 @@ The analysis revealed strong performance patterns and profitability indicators a
 Seasonal peaks, regional demand variations, and brand-level disparities indicate significant opportunities for targeted marketing, optimized distribution, and improved product portfolio management through data-driven Business Intelligence practices.
 
 ## 📋 Table Preview
-<img width="834" height="347" alt="table 1" src="https://github.com/user-attachments/assets/b5db6c35-dbf2-4104-8941-bcd249b385f6" />
+
+<img width="988" height="350" alt="table 1" src="https://github.com/user-attachments/assets/0ba07cd0-1646-4aa5-beb4-9d8c174be1ca" />
+
 <img width="845" height="217" alt="table 2" src="https://github.com/user-attachments/assets/072292e5-a3d7-4bd5-b89e-0769552d1210" />
 
 
@@ -164,16 +166,22 @@ Seasonal peaks, regional demand variations, and brand-level disparities indicate
 ### -Note:  You can review the chart in more detail and with greater clarity by referring to the attached Excel file.
 
 ### Microsoft Power BI Dashboard: 
+### 🧭 Overview:
+<img width="863" height="483" alt="1-Overview" src="https://github.com/user-attachments/assets/d1b3551a-0457-4ef2-b1ed-5c5270f4c22d" />
 
-<img width="869" height="487" alt="1-Overview" src="https://github.com/user-attachments/assets/71b4d3d8-c452-424f-8173-a3e8aebb8d6e" />
+### 📊 Sales Analysis:
 
 <img width="873" height="489" alt="2-Sales Analysis" src="https://github.com/user-attachments/assets/aad77810-e01e-44e9-9686-8d1cf12d8349" />
+### 🗺️ Sales Distribution Map:
 
 <img width="869" height="488" alt="3-Sales Distribution Map" src="https://github.com/user-attachments/assets/9dc61e82-5c1c-4bd5-b2b5-ff5f9f659eb4" />
+### 🏆 Top 10 States:
 
 <img width="869" height="489" alt="4-Top 10 States" src="https://github.com/user-attachments/assets/0562dee4-09a5-4d45-8203-3fa652e049c4" />
+### ⚠️ Lowest 10 States
 
 <img width="874" height="488" alt="5-Lowest 10 States" src="https://github.com/user-attachments/assets/0eb7851a-7219-4d61-b689-d7e18023eaba" />
+### 💰 Sales & Profit Breakdown
 
 <img width="871" height="488" alt="6-Sales   Profit Breakdown" src="https://github.com/user-attachments/assets/151c91be-d035-4257-8aad-67937eb0d6ae" />
 
