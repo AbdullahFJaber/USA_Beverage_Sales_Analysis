@@ -255,3 +255,11 @@ USA Sales Analysis.xlsx → The Excel file containing data, Tables & dashboard
 BI_Ready_Dataset.xlsx → Curated Excel Dataset for Microsoft Power BI Analysis
 
 USA Sales Analysis BI.pbix → Power BI File Project
+
+
+## 🔗 Interactive Dashboard
+You can explore the fully interactive sales dashboard online without needing Power BI Desktop. Click the link below to view the report:
+
+http://bit.ly/3Jr2kzQ
+
+Note: The dashboard works best on desktop browsers. Mobile browsers may have limited functionality.
