@@ -243,3 +243,15 @@ Based on the insights above, the following strategic actions are recommended to 
 - This project demonstrates a complete end-to-end business intelligence workflow — from raw data preparation and transformation to insightful visualization and strategic interpretation. Through detailed sales, cost, and profit analysis across multiple brands, retailers, and U.S. states, the study identified clear performance patterns, seasonal demand peaks, and regional optimization opportunities.
 
 - The results highlight the power of Excel, DAX, and Power BI in uncovering actionable insights that drive profitability and efficiency. With continuous data refinement and advanced analytics, this project serves as a scalable foundation for future market forecasting, performance benchmarking, and data-driven business decisions.
+
+
+
+## 🗂 Files in This Repository
+
+Original data.xlsx → The Excel file containing data before cleaning contains
+
+USA Sales Analysis.xlsx → The Excel file containing data, Tables & dashboard
+
+BI_Ready_Dataset.xlsx → Curated Excel Dataset for Microsoft Power BI Analysis
+
+USA Sales Analysis BI.pbix → Power BI File Project
