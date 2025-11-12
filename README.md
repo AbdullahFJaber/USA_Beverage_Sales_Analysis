@@ -146,7 +146,7 @@ The analysis revealed strong performance patterns and profitability indicators a
 ### Strategic Takeaway
 Seasonal peaks, regional demand variations, and brand-level disparities indicate significant opportunities for targeted marketing, optimized distribution, and improved product portfolio management through data-driven Business Intelligence practices.
 
-## 📋 Table Preview
+## 📋 Tables Preview
 
 <img width="988" height="350" alt="table 1" src="https://github.com/user-attachments/assets/0ba07cd0-1646-4aa5-beb4-9d8c174be1ca" />
 
